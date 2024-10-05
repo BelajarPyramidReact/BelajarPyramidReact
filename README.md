@@ -25,7 +25,7 @@
 
 Panduan komprehensif untuk pemrograman web ini menggabungkan konsep dasar dengan aplikasi praktis menggunakan Python Pyramid dan React.js. Ditulis oleh pendidik berpengalaman dan praktisi industri, buku ini menjembatani kesenjangan antara teori dan pengembangan di dunia nyata.
 
-## 📖 Daftar Isi
+## 📂 Daftar Isi
 
 - 📑 1. Bagaimana Aplikasi Web Bekerja?
 - 📑 2. Mengenal HTML
