@@ -44,7 +44,6 @@ Panduan komprehensif untuk pemrograman web ini menggabungkan konsep dasar dengan
 - 📑 14. Implementasi Web di Sisi Client
 
 ---
-
 ## ✨ Fitur Utama
 
 - 14 bab mendetail yang mencakup dasar-dasar web hingga konsep lanjutan
@@ -72,10 +71,10 @@ Panduan komprehensif untuk pemrograman web ini menggabungkan konsep dasar dengan
 
 ## 💻 Tech Stack
 
-- **Frontend**: React.js, HTML5, CSS3, JavaScript (ES6+)
-- **Backend**: Python Pyramid
-- **Database**: PostgreSQL
-- **Tools**: Git, VS Code (rekomendasi)
+- **Frontend**: React.js 18.0, HTML5, CSS3, JavaScript (ES6+)
+- **Backend**: Python Pyramid 2.0
+- **Database**: PostgreSQL 13.0
+- **Tools**: Git 2.30, VSCode 1.60
   
 ---
 
