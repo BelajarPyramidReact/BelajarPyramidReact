@@ -3,16 +3,15 @@
 
 ## 📚 Author
 
-| Nama | Posisi |
-|------|------|
-| **Muhammad Habib Algifari** | Dosen Informatika ITERA |
-| **Eko Dwi Nugroho** | Dosen Informatika ITERA |
-| **Alya Khairunnisa Rizkita** | Asisten Dosen Informatika ITERA |
-| **Ahmad Fadillah** | Mahasiswa Informatika ITERA |
-| **Daffa Abdurrahman Jatmiko** | Mahasiswa Informatika ITERA |
+| Foto | Nama | Posisi |
+|------|------|--------|
+| ![Foto Muhammad Habib Algifari](./assets/habib.jpg) | **Muhammad Habib Algifari** | Dosen Informatika ITERA |
+| ![Foto Eko Dwi Nugroho](./assets/eko.jpg) | **Eko Dwi Nugroho** | Dosen Informatika ITERA |
+| ![Foto Alya Khairunnisa Rizkita](./assets/alya.jpg) | **Alya Khairunnisa Rizkita** | Asisten Dosen Informatika ITERA |
+| ![Foto Ahmad Fadillah](./assets/fadil.jpg) | **Ahmad Fadillah** | Mahasiswa Informatika ITERA |
+| ![Foto Daffa Abdurrahman Jatmiko](./assets/daffa.jpg) | **Daffa Abdurrahman Jatmiko** | Mahasiswa Informatika ITERA |
 
 ---
-
 ## 🎯 Target Audiens
 
 - 🎓 Mahasiswa Informatika
@@ -22,8 +21,11 @@
 ---
 ## 📖 Tentang Buku
 
+![Cover Buku](./assets/cover.jpeg)
+
 Panduan komprehensif untuk pemrograman web ini menggabungkan konsep dasar dengan aplikasi praktis menggunakan Python Pyramid dan React.js. Ditulis oleh pendidik berpengalaman dan praktisi industri, buku ini menjembatani kesenjangan antara teori dan pengembangan di dunia nyata.
 
+---
 ## 📂 Daftar Isi
 
 - 📑 1. Bagaimana Aplikasi Web Bekerja?
