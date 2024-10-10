@@ -16,9 +16,8 @@
 ## 🎯 Target Audiens
 
 - 🎓 Mahasiswa Informatika
-- 💼 Junior Developer
-- 👨‍🏫 Pendidik dalam Web Development
-- 🔄 Developer Yang ingin bertransisi ke Modern Web Stack
+- 💼 Siswa SMK Rekayasa Perangkat Lunak
+- 👨‍🏫 Dosen Informatika
 
 ---
 ## 📖 Tentang Buku
@@ -62,10 +61,10 @@ Panduan komprehensif untuk pemrograman web ini menggabungkan konsep dasar dengan
 
 ## 💻 Prasyarat
 
-- Python 3.7 atau lebih tinggi
-- Node.js dan npm
-- Editor teks (disarankan VS Code)
-- Pemahaman dasar tentang konsep web
+- Python 3.7 
+- Node.js 20.9.0 dan npm 10.8.1
+- Text Editor
+- Pemahaman dasar tentang konsep algoritma pemrogramman
   
 ---
 
