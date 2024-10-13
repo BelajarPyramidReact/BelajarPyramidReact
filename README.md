@@ -3,52 +3,13 @@
 
 ## 📚 Author
 
-<table border="1" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
-  <thead style="background-color: #f4f4f4;">
-    <tr>
-      <th style="padding: 12px; text-align: left;">Foto</th>
-      <th style="padding: 12px; text-align: left;">Nama</th>
-      <th style="padding: 12px; text-align: left;">Posisi</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="border-bottom: 1px solid #ddd; transition: background-color 0.3s;">
-      <td style="padding: 12px; text-align: center;">
-        <img src="./assets/habib.jpg" alt="Foto Muhammad Habib Algifari" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
-      </td>
-      <td style="padding: 12px; font-weight: bold; color: #333;">Muhammad Habib Algifari</td>
-      <td style="padding: 12px; color: #666;">Dosen Informatika ITERA</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #ddd; transition: background-color 0.3s;">
-      <td style="padding: 12px; text-align: center;">
-        <img src="./assets/eko.jpg" alt="Foto Eko Dwi Nugroho" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
-      </td>
-      <td style="padding: 12px; font-weight: bold; color: #333;">Eko Dwi Nugroho</td>
-      <td style="padding: 12px; color: #666;">Dosen Informatika ITERA</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #ddd; transition: background-color 0.3s;">
-      <td style="padding: 12px; text-align: center;">
-        <img src="./assets/alya.jpg" alt="Foto Alya Khairunnisa Rizkita" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
-      </td>
-      <td style="padding: 12px; font-weight: bold; color: #333;">Alya Khairunnisa Rizkita</td>
-      <td style="padding: 12px; color: #666;">Asisten Dosen Informatika ITERA</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #ddd; transition: background-color 0.3s;">
-      <td style="padding: 12px; text-align: center;">
-        <img src="./assets/fadil.jpg" alt="Foto Ahmad Fadillah" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
-      </td>
-      <td style="padding: 12px; font-weight: bold; color: #333;">Ahmad Fadillah</td>
-      <td style="padding: 12px; color: #666;">Mahasiswa Informatika ITERA</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #ddd; transition: background-color 0.3s;">
-      <td style="padding: 12px; text-align: center;">
-        <img src="./assets/daffa.jpg" alt="Foto Daffa Abdurrahman Jatmiko" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
-      </td>
-      <td style="padding: 12px; font-weight: bold; color: #333;">Daffa Abdurrahman Jatmiko</td>
-      <td style="padding: 12px; color: #666;">Mahasiswa Informatika ITERA</td>
-    </tr>
-  </tbody>
-</table>
+| Foto | Nama | Posisi |
+|------|------|--------|
+| ![Foto Muhammad Habib Algifari](./assets/habib.jpg) | **Muhammad Habib Algifari** | Dosen Informatika ITERA |
+| ![Foto Eko Dwi Nugroho](./assets/eko.jpg) | **Eko Dwi Nugroho** | Dosen Informatika ITERA |
+| ![Foto Alya Khairunnisa Rizkita](./assets/alya.jpg) | **Alya Khairunnisa Rizkita** | Asisten Dosen Informatika ITERA |
+| ![Foto Ahmad Fadillah](./assets/fadil.jpg) | **Ahmad Fadillah** | Mahasiswa Informatika ITERA |
+| ![Foto Daffa Abdurrahman Jatmiko](./assets/daffa.jpg) | **Daffa Abdurrahman Jatmiko** | Mahasiswa Informatika ITERA |
 
 ---
 ## 🎯 Target Audiens
