@@ -3,13 +3,81 @@
 
 ## 📚 Author
 
-| Foto | Nama | Posisi |
-|------|------|--------|
-| ![Foto Muhammad Habib Algifari](./assets/habib.jpg) | **Muhammad Habib Algifari** | Dosen Informatika ITERA |
-| ![Foto Eko Dwi Nugroho](./assets/eko.jpg) | **Eko Dwi Nugroho** | Dosen Informatika ITERA |
-| ![Foto Alya Khairunnisa Rizkita](./assets/alya.jpg) | **Alya Khairunnisa Rizkita** | Asisten Dosen Informatika ITERA |
-| ![Foto Ahmad Fadillah](./assets/fadil.jpg) | **Ahmad Fadillah** | Mahasiswa Informatika ITERA |
-| ![Foto Daffa Abdurrahman Jatmiko](./assets/daffa.jpg) | **Daffa Abdurrahman Jatmiko** | Mahasiswa Informatika ITERA |
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+
+  th, td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+
+  th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+
+  tr:hover {
+    background-color: #f1f1f1;
+  }
+
+  img {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+  }
+
+  td {
+    vertical-align: middle;
+  }
+
+  .name {
+    font-weight: bold;
+    color: #333;
+  }
+
+  .position {
+    color: #666;
+  }
+</style>
+
+<table>
+  <tr>
+    <th>Foto</th>
+    <th>Nama</th>
+    <th>Posisi</th>
+  </tr>
+  <tr>
+    <td><img src="./assets/habib.jpg" alt="Foto Muhammad Habib Algifari"></td>
+    <td><span class="name">Muhammad Habib Algifari</span></td>
+    <td><span class="position">Dosen Informatika ITERA</span></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/eko.jpg" alt="Foto Eko Dwi Nugroho"></td>
+    <td><span class="name">Eko Dwi Nugroho</span></td>
+    <td><span class="position">Dosen Informatika ITERA</span></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/alya.jpg" alt="Foto Alya Khairunnisa Rizkita"></td>
+    <td><span class="name">Alya Khairunnisa Rizkita</span></td>
+    <td><span class="position">Asisten Dosen Informatika ITERA</span></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/fadil.jpg" alt="Foto Ahmad Fadillah"></td>
+    <td><span class="name">Ahmad Fadillah</span></td>
+    <td><span class="position">Mahasiswa Informatika ITERA</span></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/daffa.jpg" alt="Foto Daffa Abdurrahman Jatmiko"></td>
+    <td><span class="name">Daffa Abdurrahman Jatmiko</span></td>
+    <td><span class="position">Mahasiswa Informatika ITERA</span></td>
+  </tr>
+</table>
 
 ---
 ## 🎯 Target Audiens
