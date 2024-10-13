@@ -3,80 +3,51 @@
 
 ## 📚 Author
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-bottom: 20px;
-  }
-
-  th, td {
-    padding: 12px 15px;
-    text-align: left;
-    border-bottom: 1px solid #ddd;
-  }
-
-  th {
-    background-color: #f4f4f4;
-    font-weight: bold;
-  }
-
-  tr:hover {
-    background-color: #f1f1f1;
-  }
-
-  img {
-    border-radius: 50%;
-    width: 80px;
-    height: 80px;
-    object-fit: cover;
-  }
-
-  td {
-    vertical-align: middle;
-  }
-
-  .name {
-    font-weight: bold;
-    color: #333;
-  }
-
-  .position {
-    color: #666;
-  }
-</style>
-
-<table>
-  <tr>
-    <th>Foto</th>
-    <th>Nama</th>
-    <th>Posisi</th>
-  </tr>
-  <tr>
-    <td><img src="./assets/habib.jpg" alt="Foto Muhammad Habib Algifari"></td>
-    <td><span class="name">Muhammad Habib Algifari</span></td>
-    <td><span class="position">Dosen Informatika ITERA</span></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/eko.jpg" alt="Foto Eko Dwi Nugroho"></td>
-    <td><span class="name">Eko Dwi Nugroho</span></td>
-    <td><span class="position">Dosen Informatika ITERA</span></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/alya.jpg" alt="Foto Alya Khairunnisa Rizkita"></td>
-    <td><span class="name">Alya Khairunnisa Rizkita</span></td>
-    <td><span class="position">Asisten Dosen Informatika ITERA</span></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/fadil.jpg" alt="Foto Ahmad Fadillah"></td>
-    <td><span class="name">Ahmad Fadillah</span></td>
-    <td><span class="position">Mahasiswa Informatika ITERA</span></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/daffa.jpg" alt="Foto Daffa Abdurrahman Jatmiko"></td>
-    <td><span class="name">Daffa Abdurrahman Jatmiko</span></td>
-    <td><span class="position">Mahasiswa Informatika ITERA</span></td>
-  </tr>
+<table border="1" style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+  <thead style="background-color: #f4f4f4;">
+    <tr>
+      <th style="padding: 12px; text-align: left;">Foto</th>
+      <th style="padding: 12px; text-align: left;">Nama</th>
+      <th style="padding: 12px; text-align: left;">Posisi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid #ddd; transition: background-color 0.3s;">
+      <td style="padding: 12px; text-align: center;">
+        <img src="./assets/habib.jpg" alt="Foto Muhammad Habib Algifari" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+      </td>
+      <td style="padding: 12px; font-weight: bold; color: #333;">Muhammad Habib Algifari</td>
+      <td style="padding: 12px; color: #666;">Dosen Informatika ITERA</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd; transition: background-color 0.3s;">
+      <td style="padding: 12px; text-align: center;">
+        <img src="./assets/eko.jpg" alt="Foto Eko Dwi Nugroho" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+      </td>
+      <td style="padding: 12px; font-weight: bold; color: #333;">Eko Dwi Nugroho</td>
+      <td style="padding: 12px; color: #666;">Dosen Informatika ITERA</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd; transition: background-color 0.3s;">
+      <td style="padding: 12px; text-align: center;">
+        <img src="./assets/alya.jpg" alt="Foto Alya Khairunnisa Rizkita" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+      </td>
+      <td style="padding: 12px; font-weight: bold; color: #333;">Alya Khairunnisa Rizkita</td>
+      <td style="padding: 12px; color: #666;">Asisten Dosen Informatika ITERA</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd; transition: background-color 0.3s;">
+      <td style="padding: 12px; text-align: center;">
+        <img src="./assets/fadil.jpg" alt="Foto Ahmad Fadillah" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+      </td>
+      <td style="padding: 12px; font-weight: bold; color: #333;">Ahmad Fadillah</td>
+      <td style="padding: 12px; color: #666;">Mahasiswa Informatika ITERA</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #ddd; transition: background-color 0.3s;">
+      <td style="padding: 12px; text-align: center;">
+        <img src="./assets/daffa.jpg" alt="Foto Daffa Abdurrahman Jatmiko" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+      </td>
+      <td style="padding: 12px; font-weight: bold; color: #333;">Daffa Abdurrahman Jatmiko</td>
+      <td style="padding: 12px; color: #666;">Mahasiswa Informatika ITERA</td>
+    </tr>
+  </tbody>
 </table>
 
 ---
